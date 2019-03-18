@@ -13,7 +13,7 @@ from PIL.ExifTags import TAGS, GPSTAGS
 print("Skript zur Änderung der Nomenklatur der Fotos")
 print("Version 1.0")
 print("Date of creation = 23.12.2018")
-print("Autor = Alexander Sotoudeh")
+print("Autor = AliSot2000")
 print("This script requires the exiftool from Phil Harvey")
 print("You can find the install for this tool at: \nhttp://owl.phy.queensu.ca/~phil/exiftool/")
 print("This script is tested on Mac and may need some adjustment for Windows or Linux")
